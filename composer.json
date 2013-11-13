@@ -1,0 +1,10 @@
+{
+    "license": "MIT",
+    "type": "project",
+    "autoload": {
+        "psr-0": { "": "src/" }
+    },
+    "require": {
+        "php": ">=5.4"
+    }
+}
